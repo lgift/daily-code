@@ -7,8 +7,6 @@
 
 ---
 
-<br>
-
 [COMMENT]: # (WEEK 1 HEADER)
 
 <div id="user-content-toc" align="center">
@@ -49,9 +47,7 @@
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
-
 ---
-<br>
 
 [COMMENT]: # (WEEK 2 HEADER)
 
@@ -82,7 +78,6 @@
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
 ---
-<br>
 
 [COMMENT]: # (WEEK 3 HEADER)
 
