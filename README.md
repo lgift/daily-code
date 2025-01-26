@@ -69,7 +69,7 @@
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
 <div align="center">
-<a href="https://github.com/lgift/daily-code/blob/main/week 1/fizzbuzz.txt">
+<a href="https://github.com/lgift/daily-code/blob/main/week%202/Stairs.java">
 <b>DAY 1 -</b> Staircase
 </a>
 <br><br>
