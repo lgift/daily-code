@@ -4,7 +4,6 @@
 
 
 <h5 align="center"> <p> 🚨 scroll down to quickly find each week and exercise! 🚨 </p> </h5>
-<br>
 
 ---
 
