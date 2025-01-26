@@ -91,7 +91,7 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-  <summary><h1> <p> 😸 WEEK 3 😸 </p> </h1></summary>
+  <summary><h1> <p> 🎀 WEEK 3 🎀 </p> </h1></summary>
   </ul>
 </div>
 
