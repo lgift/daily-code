@@ -1,14 +1,7 @@
-[COMMENT]: # (MAIN TITLE)
-<div id="user-content-toc" align="center">
-  <ul>
-  <summary><h1> <p> DAILY CODE!!! </p> </h1></summary>
-  </ul>
-</div>
-
-[COMMENT]: # (MAIN IMAGE)
 <p align="center">
-  <img width="400" height="250" src="https://github.com/user-attachments/assets/197ebcde-a6d3-4aa7-87eb-4d1d23e5b2bd">
+  <img width="450" height="300" src="https://github.com/user-attachments/assets/dcd84c84-61ac-4d00-9541-135b1c22859b">
 </p>
+
 
 <h5 align="center"> <p> 🚨 scroll down for each week and lesson! 🚨 </p> </h5>
 <br>
