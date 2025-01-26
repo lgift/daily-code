@@ -11,10 +11,11 @@
 </p>
 
 <h5 align="center"> <p> 🚨 scroll down for each week and lesson! 🚨 </p> </h5>
+<br>
 
-<br><br>
+---
 
-<br><br>
+<br>
 
 [COMMENT]: # (WEEK 1 HEADER)
 
