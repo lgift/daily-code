@@ -1,2 +1,0 @@
-# daily-code
-:3
