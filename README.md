@@ -3,7 +3,7 @@
 </p>
 
 
-<h5 align="center"> <p> 🚨 scroll down for each week and lesson! 🚨 </p> </h5>
+<h5 align="center"> <p> 🚨 scroll down to quickly find each week and exercise! 🚨 </p> </h5>
 <br>
 
 ---
