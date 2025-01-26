@@ -30,7 +30,7 @@
 
 <div align="center">
 <a href="https://github.com/lgift/daily-code/blob/main/week 1/fizzbuzz.txt">
-<b>DAY 1 -</b> FizzBuzz in Coral
+<b>DAY 1 -</b> FizzBuzz
 </a>
 <br><br>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 <a href="https://github.com/lgift/daily-code/blob/main/week 1/fizzbuzz.txt">
-<b>DAY 1 -</b> Staircase in Java
+<b>DAY 1 -</b> Staircase
 </a>
 <br><br>
 </div>
