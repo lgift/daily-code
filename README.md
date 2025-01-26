@@ -19,7 +19,7 @@
   <img width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaiUx1cW-qDGop7QltS8z7wm_6GG7nIM6Kjg&s">
 </p>
 <h5 align="center">📆 Week of January 13th, 2025</h5>
-<h6 align="center">ft. Python, Coral, Java, JavaScript, and HTML</h6>
+<h6 align="center">ft. Coral, Java, Python, JavaScript, and HTML</h6>
 <br>
 
 [COMMENT]: # (WEEK 1 HEADER)
