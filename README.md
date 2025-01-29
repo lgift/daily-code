@@ -102,13 +102,13 @@
 <div align="center">
 <b>DAY 1 -</b> Prompts:
 <a href="https://github.com/lgift/daily-code/blob/main/week%203/prompts/palindrome.py">
-<b>Palindrome</b>, 
+<b>Palindrome</b>
 </a>
-
+, 
 <a href="https://github.com/lgift/daily-code/blob/main/week%203/prompts/Sum.java">
-<b>Sums</b>, 
+<b>Sums</b>
 </a>
-
+, 
 <a href="https://github.com/lgift/daily-code/tree/main/week%203/prompts/countdown">
 <b>Countdown </b>
 </a>
