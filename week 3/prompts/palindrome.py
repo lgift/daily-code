@@ -2,14 +2,18 @@
 
 user_input = input("\nEnter anything ...... ANYTHING GGGG :))))))) or press e to exit\n").lower()
 
-while user_input != 'e':
+def referse(user_input):
 
-    # Takes the reverse index of the string, reversing it to check if it's a palindrome
-    if user_input[::-1] == user_input:
-        print("\nPALDINROME!!!!! :3 :3 :3 ")
-        print('🐈🐈🐈🐈🐈🐈🐈')
-        user_input = input("\nEnter anything ...... ANYTHING GGGG :))))))) or press e to exit\n")
+    while user_input != 'e':
 
-    else:
-        print("\nThis... is... NOT A PALINDROME!!!!!!!!!!! 😡😡😡🤬🤬🤬🤬🤬")
-        user_input = input("\nEnter anything ...... ANYTHING GGGG :))))))) or press e to exit\n")
+        # Takes the reverse index of the string, reversing it to check if it's a palindrome
+        if user_input[::-1] == user_input:
+            print("\nPALDINROME!!!!! :3 :3 :3 ")
+            print('🐈🐈🐈🐈🐈🐈🐈')
+            user_input = input("\nEnter anything ...... ANYTHING GGGG :))))))) or press e to exit\n")
+
+        else:
+            print("\nThis... is... NOT A PALINDROME!!!!!!!!!!! 😡😡😡🤬🤬🤬🤬🤬")
+            user_input = input("\nEnter anything ...... ANYTHING GGGG :))))))) or press e to exit\n")
+
+referse(user_input)

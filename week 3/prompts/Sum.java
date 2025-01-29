@@ -1,17 +1,9 @@
 import java.util.Scanner;
 
 public class Sum {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Enter didigts... ENTER ENTER ENTER 🤣🐈🐈🐈🐈🐈");
-        String digits = input.nextLine();
 
-        // splits 
-        String[] collection = digits.split("");
-
-        int counter = 0;
-
-        // iterates through the array
+    static void Iterate(int counter, String[] collection) {
+            // iterates through the array
         for (String i : collection) {
             // converts string to int and adds it to counter
             // if error raises when adding to counter because of non parsable to int character, yell at user and continue
@@ -29,6 +21,19 @@ public class Sum {
         } else {
             System.out.println("\nThere's NOTHING ....... how disgraceful!!!!!! 💔💔😿😿😿😿😿");
         }
+    }
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter didigts... ENTER ENTER ENTER 🤣🐈🐈🐈🐈🐈");
+        String digits = input.nextLine();
+
+        // splits 
+        String[] collection = digits.split("");
+
+        int counter = 0;
+        Iterate(counter, collection);
+
         input.close();
     }
 }
