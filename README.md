@@ -92,14 +92,21 @@
 </p>
 
 <h5 align="center">📆 Week of January 27th, 2025</h5>
-<h6 align="center">ft. ???</h6>
+<h6 align="center">ft. Python, Java, JavaScript, and HTML</h6>
 <br>
 
 [COMMENT]: # (WEEK 3 HEADER)
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
-<p align="center">Nothing here yet...</p>
+<div align="center">
+<b>DAY 1 -</b> Prompts:
+<a href="https://github.com/lgift/daily-code/blob/main/week%202/Stairs.java">
+<b>Palindrome</b> Prompts
+</a>
+
+<br><br>
+</div>
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
