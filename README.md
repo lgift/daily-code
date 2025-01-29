@@ -109,7 +109,7 @@
 <b>Sums</b>, 
 </a>
 
-<a href="https://github.com/lgift/daily-code/blob/main/week%203/prompts/countdown.html">
+<a href="https://github.com/lgift/daily-code/tree/main/week%203/prompts/countdown">
 <b>Countdown </b>
 </a>
 
