@@ -22,11 +22,12 @@
     backgroundMusic.loop = true;
     backgroundMusic.play();
 
+    // :3
     addEventListener("submit", (event) => {
         event.preventDefault();
         let num = document.getElementById("num").value;
         document.body.style.backgroundImage = "url('audios/cat.jpg')";
-
+        // while the number isn't actively zero, create a new element and write the number and count down
         while (num > 0) {
             let el = document.createElement("p");
             let node = document.createTextNode(num);
@@ -39,11 +40,10 @@
             
         }
 
-        
     }
         
     )
-
+    // audios AHHHHHH
     function audios() {
         setTimeout(() => {
                 console.log("snoozing ...");
