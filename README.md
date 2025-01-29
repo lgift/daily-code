@@ -101,8 +101,16 @@
 
 <div align="center">
 <b>DAY 1 -</b> Prompts:
-<a href="https://github.com/lgift/daily-code/blob/main/week%202/Stairs.java">
-<b>Palindrome</b> Prompts
+<a href="https://github.com/lgift/daily-code/blob/main/week%203/palindrome.py">
+<b>Palindrome, </b>
+</a>
+
+<a href="https://github.com/lgift/daily-code/blob/main/week%203/Sum.java">
+<b>Sums, </b>
+</a>
+
+<a href="https://github.com/lgift/daily-code/blob/main/week%203/countdown.html">
+<b>Countdown </b>
 </a>
 
 <br><br>
