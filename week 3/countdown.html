@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COUTN DOWN DOWN DOWN DOWN</title>
+</head>
+<body>
+    <form id="form">
+        <label>HEY HEY HEY INPUT A NUMBER ILL COUNT DOWN FROM IT!!!!</label>
+        <input type="number" id="num">
+        <input type = "submit">
+    </form>
+
+    <div id="write"></div>
+</body>
+
+<script>
+    
+
+    let backgroundMusic = new Audio("audios/fnaf3.mp3");
+    backgroundMusic.loop = true;
+    backgroundMusic.play();
+
+    addEventListener("submit", (event) => {
+        event.preventDefault();
+        let num = document.getElementById("num").value;
+        document.body.style.backgroundImage = "url('audios/cat.jpg')";
+
+        while (num > 0) {
+            let el = document.createElement("p");
+            let node = document.createTextNode(num);
+            el.appendChild(node)
+            let element = document.getElementById("write");
+            element.appendChild(el)
+            num -= 1
+            
+            audios();
+            
+        }
+
+        
+    }
+        
+    )
+
+    function audios() {
+        setTimeout(() => {
+                console.log("snoozing ...");
+            }, "5")
+
+        let markiplier = new Audio("audios/markiplier.mp3");
+        let meow = new Audio("audios/meows.mp3");
+
+        markiplier.play();
+        markiplier.play();
+        markiplier.play();
+        markiplier.play();
+        meow.play()
+    }
+    
+</script>
+</html>
+
