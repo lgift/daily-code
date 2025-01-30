@@ -112,7 +112,6 @@
 <a href="https://github.com/lgift/daily-code/tree/main/week%203/prompts/countdown">
 <b>Countdown </b>
 </a>
-
 <br><br>
 </div>
 
