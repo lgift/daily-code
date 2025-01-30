@@ -116,6 +116,13 @@
 <br><br>
 </div>
 
+<div align="center">
+<a href="https://github.com/lgift/daily-code/blob/main/week%203/factorial.java">
+<b>DAY 2 -</b> Factorial
+</a>
+<br><br>
+</div>
+
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
 
