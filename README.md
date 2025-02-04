@@ -139,15 +139,17 @@
 </p>
 
 <h5 align="center">📆 Week of February 3rd, 2025</h5>
-<h6 align="center">ft. ???</h6>
+<h6 align="center">ft. Java</h6>
 <br>
 
-[COMMENT]: # (WEEK 3 HEADER)
+[COMMENT]: # (WEEK 4 HEADER)
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
 <div align="center">
-<b>???</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%204/JavaQuickMaths.java">
+<b>DAY 1 -</b> Quick Maths
+</a>
 <br><br>
 </div>
 
