@@ -100,7 +100,7 @@
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
 <div align="center">
-<b>DAY 1 -</b> Prompts:
+<b>DAY 1 -</b>
 <a href="https://github.com/lgift/daily-code/blob/main/week%203/prompts/palindrome.py">
 <b>Palindrome</b>
 </a>
@@ -149,6 +149,26 @@
 <div align="center">
 <a href="https://github.com/lgift/daily-code/blob/main/week%204/JavaQuickMaths.java">
 <b>DAY 1 -</b> Quick Maths
+</a>
+<br><br>
+</div>
+
+<div align="center">
+<b>DAY 1 -</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%204/Addition.java">
+<b>Addition</b>
+</a>
+, 
+<a href="https://github.com/lgift/daily-code/blob/main/week%204/GuessNumber.java">
+<b>Guess Number</b>
+</a>
+, 
+<a href="https://github.com/lgift/daily-code/blob/main/week%204/DoIt.java">
+<b>Number Validator</b>
+</a>
+,
+<a href="https://github.com/lgift/daily-code/blob/main/week%204/ThreeIsNotTheMagicNumber.java">
+<b>Multiples of Three</b>
 </a>
 <br><br>
 </div>
