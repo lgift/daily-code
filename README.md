@@ -186,7 +186,7 @@
 </div>
 
 <p align="center">
-  <img width="150" height="100" src="https://github.com/user-attachments/assets/5fd2a9ba-a5a0-4fc6-adb1-988e785dad17">
+  <img width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkZdrmdw7RO6aSu1_3RWWFa0tHJ272gQV7A&s">
 </p>
 
 <h5 align="center">📆 Week of February 10th, 2025</h5>
