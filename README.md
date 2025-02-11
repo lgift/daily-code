@@ -126,7 +126,7 @@
 
 ---
 
-[COMMENT]: # (WEEK 3 HEADER)
+[COMMENT]: # (WEEK 4 HEADER)
 
 <div id="user-content-toc" align="center">
   <ul>
@@ -175,5 +175,33 @@
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
 
+---
+
+[COMMENT]: # (WEEK 5 HEADER)
+
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> <p> 🛒 WEEK 5 🛒 </p> </h1></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img width="150" height="100" src="https://github.com/user-attachments/assets/5fd2a9ba-a5a0-4fc6-adb1-988e785dad17">
+</p>
+
+<h5 align="center">📆 Week of February 10th, 2025</h5>
+<h6 align="center">ft. Java</h6>
+<br>
+
+[COMMENT]: # (WEEK 5 HEADER)
+
+[COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
+
+<div align="center">
+<b>DAY 1 -</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%205/AllInOne.java">
+<b>Methods</b>
+</a>
 
 
+[COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
