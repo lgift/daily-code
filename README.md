@@ -203,5 +203,10 @@
 <b>Methods</b>
 </a>
 
+<div align="center">
+<b>DAY 2-</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%205/Array.java">
+<b>Arrays</b>
+</a>
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
