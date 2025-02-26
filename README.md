@@ -219,12 +219,12 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-  <summary><h1> <p> 🛒 WEEK 5 🛒 </p> </h1></summary>
+  <summary><h1> <p> 🦭 WEEK 6 🦭 </p> </h1></summary>
   </ul>
 </div>
 
 <p align="center">
-  <img width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkZdrmdw7RO6aSu1_3RWWFa0tHJ272gQV7A&s">
+  <img width="150" height="100" src="https://github.com/user-attachments/assets/474dc9a6-de84-481e-9d77-db8b8e1d2645">
 </p>
 
 <h5 align="center">📆 Week of February 24th, 2025</h5>
