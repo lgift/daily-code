@@ -212,3 +212,41 @@
 </a>
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
+
+---
+
+[COMMENT]: # (WEEK 6 HEADER)
+
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> <p> 🛒 WEEK 5 🛒 </p> </h1></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkZdrmdw7RO6aSu1_3RWWFa0tHJ272gQV7A&s">
+</p>
+
+<h5 align="center">📆 Week of February 10th, 2025</h5>
+<h6 align="center">ft. Java</h6>
+<br>
+
+[COMMENT]: # (WEEK 6 HEADER)
+
+[COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
+
+<div align="center">
+<b>DAY 1 -</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%205/AllInOne.java">
+<b>Methods</b>
+<br><br>
+</a>
+
+<div align="center">
+<b>DAY 2-</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%205/Array.java">
+<b>Arrays</b>
+<br><br>
+</a>
+
+[COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
