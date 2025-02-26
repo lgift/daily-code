@@ -227,7 +227,7 @@
   <img width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkZdrmdw7RO6aSu1_3RWWFa0tHJ272gQV7A&s">
 </p>
 
-<h5 align="center">📆 Week of February 10th, 2025</h5>
+<h5 align="center">📆 Week of February 24th, 2025</h5>
 <h6 align="center">ft. Java</h6>
 <br>
 
@@ -237,15 +237,8 @@
 
 <div align="center">
 <b>DAY 1 -</b>
-<a href="https://github.com/lgift/daily-code/blob/main/week%205/AllInOne.java">
-<b>Methods</b>
-<br><br>
-</a>
-
-<div align="center">
-<b>DAY 2-</b>
-<a href="https://github.com/lgift/daily-code/blob/main/week%205/Array.java">
-<b>Arrays</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%206/ArraySearch.java">
+<b>Array Searching</b>
 <br><br>
 </a>
 
