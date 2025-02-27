@@ -55,8 +55,20 @@ public class ArraySearch {
 
         long binaryEndTime = System.nanoTime();
 
+        long linearTime =  (linearEndTime - linearStartTime);
+        long binaryTime =  (binaryEndTime - binaryStartTime);
+
         System.out.println("\n**RESULTS**\n(target number: " + target + ")\n");
-        System.out.println("linear search:\n     - Index of targetted number was " + linIndex + "\n     - Linear search took " + (linearEndTime - linearStartTime) + " nanoseconds.");
-        System.out.println("binary  search:\n     - Index of targetted number was " + binIndex + "\n     - Binary search took " + (binaryEndTime - binaryStartTime) + " nanoseconds.");
+        System.out.println("linear search:\n     - Index of targetted number was " + linIndex + "\n     - Linear search took " + linearTime + " nanoseconds.");
+        System.out.println("binary  search:\n     - Index of targetted number was " + binIndex + "\n     - Binary search took " + binaryTime + " nanoseconds.");
+
+        if (linearTime > binaryTime) {
+            System.out.println("\n BINARY search was FASTER!!! 😼😼😼");
+        } else if (binaryTime > linearTime) {
+            System.out.println("\n LINEAR search was FASTER!!! 🙀🙀🙀");
+        } else {
+            System.out.println("What.... linear and binary search got the same time??? WHAT??? WHAT???????");
+        }
+    
     }
 }
