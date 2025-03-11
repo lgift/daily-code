@@ -267,7 +267,7 @@
 <div align="center">
 <b>DAY 1 -</b>
 <a href="https://github.com/lgift/daily-code/blob/main/week%207/megaMillions.java">
-<b>Array Searching</b>
+<b>Mega Millions</b>
 <br><br>
 </a>
 
