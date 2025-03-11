@@ -253,7 +253,7 @@
 </div>
 
 <p align="center">
-  <img width="150" height="100" src="https://github.com/user-attachments/assets/108d9aac-2f3f-4fca-8743-ac58dd9bed92)">
+  <img width="150" height="100" src="https://github.com/user-attachments/assets/108d9aac-2f3f-4fca-8743-ac58dd9bed92">
 </p>
 
 <h5 align="center">📆 Week of March 4th, 2025</h5>
