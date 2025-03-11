@@ -242,4 +242,33 @@
 <br><br>
 </a>
 
+---
+
+[COMMENT]: # (WEEK 7 HEADER)
+
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> <p> 🎰 WEEK 7 🎰 </p> </h1></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img width="150" height="100" src="https://github.com/user-attachments/assets/108d9aac-2f3f-4fca-8743-ac58dd9bed92)">
+</p>
+
+<h5 align="center">📆 Week of March 4th, 2025</h5>
+<h6 align="center">ft. Java</h6>
+<br>
+
+[COMMENT]: # (WEEK 7 HEADER)
+
+[COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
+
+<div align="center">
+<b>DAY 1 -</b>
+<a href="https://github.com/lgift/daily-code/blob/main/week%207/megaMillions.java">
+<b>Array Searching</b>
+<br><br>
+</a>
+
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
