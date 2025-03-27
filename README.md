@@ -272,3 +272,34 @@
 </a>
 
 [COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
+
+---
+
+[COMMENT]: # (WEEK 8 HEADER)
+
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1> <p> 🙀 WEEK 8 🙀 </p> </h1></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <img width="150" height="100" src="https://github.com/user-attachments/assets/d47dc460-b148-44ca-b3cc-0c4a2093be1a">
+</p>
+
+<h5 align="center">📆 Week of March 24th, 2025</h5>
+<h6 align="center">ft. Java</h6>
+<br>
+
+[COMMENT]: # (WEEK 8 HEADER)
+
+[COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
+
+<div align="center">
+<b>DAY 1 -</b>
+<a href="https://github.com/lgift/daily-code/tree/main/week8">
+<b>Coffee Orders</b>
+<br><br>
+</a>
+
+[COMMENT]: # (DAYS WITH LINKS AND DESCRIPTION)
